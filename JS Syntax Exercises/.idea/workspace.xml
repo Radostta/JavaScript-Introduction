@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6cd1fcf-4374-4dce-a11a-94e2d41f1684" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MultiplyTwoNumbers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JS Syntax Lab/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JS Syntax Lab/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MultiplyOrDivideByAGivenNumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrintLines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrintNumbersFrom1ToN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrintNumbersFromNTo1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrintNumbersInReversedOrder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductOf3Numbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiplyANumberBy2.js" afterPath="$PROJECT_DIR$/MultiplyANumberBy2.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,9 +37,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MultiplyANumberBy2.js" />
         <option value="$PROJECT_DIR$/TurnObjectIntoJSONString.js" />
         <option value="$PROJECT_DIR$/MultiplyTwoNumbers.js" />
+        <option value="$PROJECT_DIR$/MultiplyANumberBy2.js" />
+        <option value="$PROJECT_DIR$/MultiplyOrDivideByAGivenNumber.js" />
+        <option value="$PROJECT_DIR$/ProductOf3Numbers.js" />
+        <option value="$PROJECT_DIR$/PrintNumbersFrom1ToN.js" />
+        <option value="$PROJECT_DIR$/PrintNumbersFromNTo1.js" />
+        <option value="$PROJECT_DIR$/PrintLines.js" />
+        <option value="$PROJECT_DIR$/PrintNumbersInReversedOrder.js" />
       </list>
     </option>
   </component>
@@ -59,7 +68,9 @@
     <option name="width" value="1360" />
     <option name="height" value="708" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -110,17 +121,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.MultiplyTwoNumbers.js">
-    <configuration name="MultiplyTwoNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MultiplyTwoNumbers.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="TurnObjectIntoJSONString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="TurnObjectIntoJSONString.js" working-dir="$PROJECT_DIR$" />
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.TurnObjectIntoJSONString.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.MultiplyTwoNumbers.js" />
+  <component name="RunManager" selected="Node.js.PrintNumbersInReversedOrder.js">
+    <configuration name="PrintLines.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PrintLines.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="PrintNumbersFrom1ToN.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PrintNumbersFrom1ToN.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="PrintNumbersFromNTo1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PrintNumbersFromNTo1.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="PrintNumbersInReversedOrder.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PrintNumbersInReversedOrder.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="ProductOf3Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ProductOf3Numbers.js" working-dir="$PROJECT_DIR$" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.ProductOf3Numbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.PrintNumbersFrom1ToN.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.PrintNumbersFromNTo1.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.PrintLines.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.PrintNumbersInReversedOrder.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.MultiplyTwoNumbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.TurnObjectIntoJSONString.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.PrintNumbersInReversedOrder.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.PrintLines.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.PrintNumbersFromNTo1.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.PrintNumbersFrom1ToN.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.ProductOf3Numbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -135,21 +155,21 @@
       <option name="presentableId" value="Default" />
       <updated>1511032373004</updated>
       <workItem from="1511032374346" duration="691000" />
-      <workItem from="1511042474428" duration="5339000" />
+      <workItem from="1511042474428" duration="10079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6030000" />
+    <option name="totallyTimeSpent" value="10770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1360" height="708" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -200,10 +220,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MultiplyTwoNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiplyOrDivideByAGivenNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MultiplyANumberBy2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProductOf3Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintNumbersFrom1ToN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintNumbersFromNTo1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintLines.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -216,10 +284,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MultiplyTwoNumbers.js">
+    <entry file="file://$PROJECT_DIR$/PrintNumbersInReversedOrder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
