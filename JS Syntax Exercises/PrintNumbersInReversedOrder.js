@@ -8,7 +8,7 @@ function printNumbersInReversedOrder(arr) {
     //return tail;
 
     //for (let i = 0; i < arr.length; i++){
-    //  let numAsArr = arr[i].splice(/./).reverse();}
+    //  let numAsArr = arr[i].slice(/./).reverse();}
 }
 
 console.log(printNumbersInReversedOrder(['10', '15', '20']));
