@@ -1,13 +1,14 @@
 JavaScript-Introduction
 Introduction to Java Script | Software Technologies | SoftUni
 
-JavaScript Exercises: Web Storm + Node.js
+***
+
+JavaScript Exercises (JS syntax overview): Web Storm | ECMAScript 6 + Node.js
 
 ***
 
-Calculator Exercise: Web Storm, ExpressJS MVC framework, Handlebars view engine
+Calculator Exercise (Express JS overview): Web Storm, ExpressJS MVC framework, Handlebars view engine
 
 ***
 
-SoftUni Blog: Web Storm, Node.JS + ExpressJS, Handlebars, MongoDB database + Mongoose ORM + Robo 3T
-JS version: ECMAScript 6
+SoftUni Blog (MongoDB overview): Web Storm, Node.JS + ExpressJS, Handlebars, MongoDB database + Mongoose ORM + Robo 3T
