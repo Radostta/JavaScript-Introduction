@@ -1,5 +1,4 @@
-JavaScript-Introduction
-Introduction to Java Script | Software Technologies | SoftUni
+Introduction to Java Script - Software Technologies 2017 - SoftUni
 
 ***
 
